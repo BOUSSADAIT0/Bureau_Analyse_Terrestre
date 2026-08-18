@@ -9,7 +9,9 @@ pip install -r requirements.txt
 jupyter notebook nettoyage_ufo.ipynb
 ```
 
-Ouvrir le notebook et exécuter toutes les cellules (Run All). Les Phases 1 à 6 s'enchaînent dans l'ordre.
+Ouvrir le notebook et exécuter toutes les cellules (Run All). Les Phases 1 à 12 s'enchaînent dans l'ordre.
+
+Tout le projet est dans le notebook — pas de script `analyse.py` séparé.
 
 Télécharger le CSV si absent :
 
